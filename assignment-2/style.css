@@ -1,0 +1,85 @@
+.navbar-brand {
+  color: orangered;
+  font-weight: bold;
+  font-size: 20px;
+  transition: 0.5s;
+}
+
+.navbar-brand:hover {
+  color: orangered;
+  transform: scale(1.1);
+  text-shadow: 2px 4px 6px gray;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.form-control:focus {
+    box-shadow: 0 0 0 0.2rem rgba(255, 69, 0, 0.25);
+}
+.form-control {
+    border-radius: 30px;
+    transition: 0.3s;
+    
+}
+.nav-link:hover{
+    color:orangered;
+    font-weight: bold;
+    font-size: 30px;
+}
+.card{
+    border-radius: 30px;
+}
+.card-img-top{
+    border-radius: 30px;
+}
+.btn-dark {
+  border-radius: 30px;
+}
+
+.col-12.col-md-6 img {
+  border-radius: 30px;
+}
+.img-fluid {
+  border-radius: 30px;
+}
+
+
+.card {
+  transition: 0.8s;
+}
+
+.card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 20px gray;
+  position: relative;
+  z-index: 1;
+}
+.handmade {
+  font-family: 'Brush Script MT', cursive;
+  font-size: 2.5rem;
+  color: orangered;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+.handmade:hover {
+  color: darkorange;
+  font-size: 3rem;
+}
+.col-md-4 a {
+  text-decoration: none;
+  color: inherit;
+}
+.col-md-4 a:hover {
+  color: orangered;
+  font-weight: bold;
+}
+.col-md-4 h5 {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+.mb-2 a:hover {
+  color: orangered;
+  font-weight: bold;
+}
+
+
